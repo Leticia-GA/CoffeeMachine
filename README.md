@@ -1,6 +1,6 @@
 # CoffeeMachine
 
-Esta es mi segunda práctica del ciclo de grado superior en desarrollo de aplicaciones web.
+Esta es mi segunda práctica del Ciclo de Grado Superior en Desarrollo de Aplicaciones Web.
 
 Simula el comportamiento de una máquina de café en la que un usuario introduce una importe y puede comprar una bebida de entre una selección que se le ofrece.
 
